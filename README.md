@@ -1,6 +1,6 @@
 # DV_SpotifyRewind2020
 
-## Introduction 
+### Introduction 
 
 In these recent years, Spotify has made its name in the world of entertainment, especially for the music industry as of the downtrend of the physical CDs and the uptrend of technology. It is easy to get a taste of our favourite artists' latest hits immediately from the palm of your hand using mobile phones or even a laptop. In recent years, Spotify has been made knowingly to conclude personal statistics for each of the users personally, which describes the most streamed artists for the users and so on. Through the charts data from Spotify, we would like to understand which artist and what songs make the most impact throughout different regions in 2020.
 
